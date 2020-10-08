@@ -32,11 +32,13 @@ JavaScript provides different data types to hold different types of values.
     - var num = 1.222;
     - var n = 12e10; (e10 means exponential || base 10 with power 10 || e^10 )
 
-3.  ### Boolean
+### 3. Boolean
+
     - Represents a boolean value i.e true or false
     - Example :
       - var bool = true;
       - var boolean = false;
+
 4.  ### Undefined
     - Represents undefined value(memory is located but value is not assigned).
     - Example :
