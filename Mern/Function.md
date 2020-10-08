@@ -25,12 +25,15 @@ A JavaScript function is defined with the function keyword, followed by a name, 
         //Function call
         name('Mark','Shrestha');
 
-### Ways of Writing a Function
+## Ways of Writing a Function
 
 1. Expression Syntax
 2. Declerative Syntax
 
 ### Expression Syntax
+
+    In this syntax, we can define a function inside a expression.
+
 
         //Function Initialization
 
@@ -40,6 +43,16 @@ A JavaScript function is defined with the function keyword, followed by a name, 
 
         //Function Call
         work();
+
+    *NOTE:-  We cannot call the function before initialization
+
+       //Function Call
+        ~~work();~~
+
+         //Function Initialization
+        var work = function(){
+            //Code
+        }
 
 ### Declerative Syntax
 
