@@ -15,25 +15,25 @@ JavaScript provides different data types to hold different types of values.
 
 ## Primitive data
 
-*String
--Represents a sequense of characters
--Single quote or double quote represents a character or string
--Example :
-var name = Mark'
-var address = "somewhere in the earth"
-var character = 'a' || "b"
-*Number
--Represents a number
--Example :
-var number = 2
-var num = 1.222
-var n = 12e10 (e10 means exponential || base 10 with power 10 || e^10 )
-*Boolean
--Represents a boolean value i.e true or false
-*Undefined
--Represents undefined value(memory is located but value is not assigned).
-\*Null
--Represents null i.e no value at all
+- String
+  -Represents a sequense of characters
+  -Single quote or double quote represents a character or string
+  -Example :
+  var name = Mark'
+  var address = "somewhere in the earth"
+  var character = 'a' || "b"
+  -Number
+  -Represents a number
+  -Example :
+  var number = 2
+  var num = 1.222
+  var n = 12e10 (e10 means exponential || base 10 with power 10 || e^10 )
+  \*Boolean
+  -Represents a boolean value i.e true or false
+  \*Undefined
+  -Represents undefined value(memory is located but value is not assigned).
+  \*Null
+  -Represents null i.e no value at all
 
 ##Non-primitive Data type  
  *Object
