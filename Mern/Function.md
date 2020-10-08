@@ -57,7 +57,8 @@ A JavaScript function is defined with the function keyword, followed by a name, 
 
 ### Declerative Syntax
 
-    In this syntax, we defines a function with specified name and parameters.we can call the function from anywhere.
+    In this syntax, we defines a function with specified name and parameters.
+    we can call the function from anywhere.
 
         //Function Call
         work();
