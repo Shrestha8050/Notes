@@ -1,9 +1,11 @@
 # Promise
 
     Promise is an object which represent future result value.
-    The Promise object represents the eventual completion (or failure) of an asynchronous operation (operation that takes time ) and its resulting value.
+    The Promise object represents the eventual completion (or failure) of an
+    asynchronous operation (operation that takes time ) and its resulting value.
 
-    In promise, asynchronous methods doesnot return the value directly but it returns a promise to supply the value at some point in the future.
+    In promise, asynchronous methods doesnot return the value directly but
+    it returns a promise to supply the value at some point in the future.
 
 ### A Promise is in one of these states:
 
