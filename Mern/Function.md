@@ -10,7 +10,6 @@ JavaScript functions are used to perform operations.A JavaScript function is exe
    - We can call a function more than one time (several times ) in program.
 
 2. Less Coding
-
    - We dont need to write code each time to perform the common task.
 
 ### Syntax of Function
@@ -34,24 +33,21 @@ A JavaScript function is defined with the function keyword, followed by a name, 
 
     In this syntax, we can define a function inside a expression.
 
-
         //Function Initialization
-
-        var work = function(){
-            //Code
-        }
-
+            var work = function(){
+                //Code
+            }
         //Function Call
-        work();
+             work();
 
     NOTE :  We cannot call the function before initialization
 
         //Function Call
-        work();
+            work();
         //Function Initialization
-        var work = function(){
-            //Code
-        }
+            var work = function(){
+                //Code
+            }
 
         This will Produce an TypeError : work is not a function
 
@@ -61,16 +57,13 @@ A JavaScript function is defined with the function keyword, followed by a name, 
     we can call the function from anywhere.
 
         //Function Call
-        work();
-
+            work();
         //Function Initialization
-
-         function work(){
-            //Code
-        }
-
+            function work(){
+                //Code
+            }
         //Function Call
-        work();
+            work();
 
 ## Type of Function
 
