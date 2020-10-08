@@ -53,16 +53,20 @@ JavaScript provides different data types to hold different types of values.
 
 1.  Object
 
+        -Colection of key(or name) value pair
         - Represents a collection of properties(member) through which we can access properties(member)
         - Example :
         - var obj = {
             name : 'Mark',
             key: 'value'
             }
+        - var obj1 = new Object();
 
 2.  Array
 
+        -Holds multiple values
         - Represents group of similar values
+
         - Example :
             - var arr = ['hello' , 'world'];
             - var color = new Array("red", "blue", "green");
