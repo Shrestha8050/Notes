@@ -47,16 +47,20 @@ A JavaScript function is defined with the function keyword, followed by a name, 
     NOTE :  We cannot call the function before initialization
 
         //Function Call
+        work();
+        //Function Initialization
+        var work = function(){
+            //Code
+        }
 
-~~work();~~
-//Function Initialization
-var work = function(){
-//Code
-}
-
-_This will Produce an Reference Error_
+        This will Produce an Reference Error
 
 ### Declerative Syntax
+
+    In this syntax, we defines a function with specified name and parameters.we can call the function from anywhere.
+
+        //Function Call
+        work();
 
         //Function Initialization
 
