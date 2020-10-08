@@ -1,4 +1,5 @@
-#Data Type:
+# Data Type
+
 _In computer science and computer programming,_ a data type or simply type is an attribute of data which tells the compiler or interpreter how the programmer intends to use the data.
 or
 Data Type is the Classification of the data where we can define the type of the data according to our need and specification.
@@ -6,11 +7,14 @@ Data Type is the Classification of the data where we can define the type of the 
 **_JavaScript is a loosely type or dynamic type language, means you don't need to specify type of the variable because it is dynamically used by JavaScript engine._**
 
 JavaScript provides different data types to hold different types of values.
-##There are two types of data types in JavaScript.
-**1)Primitive data type**
-**2)Non-primitive (reference) data type**
 
-##Primitive data
+## There are two types of data types in JavaScript.
+
+1)Primitive data type
+2)Non-primitive (reference) data type
+
+## Primitive data
+
 *String
 -Represents a sequense of characters
 -Single quote or double quote represents a character or string
