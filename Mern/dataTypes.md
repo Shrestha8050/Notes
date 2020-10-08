@@ -16,12 +16,12 @@ JavaScript provides different data types to hold different types of values.
 ## Primitive data
 
 1. String
-   -Represents a sequense of characters
-   -Single quote or double quote represents a character or string
-   -Example :
-   var name = Mark'
-   var address = "somewhere in the earth"
-   var character = 'a' || "b"
+   - Represents a sequense of characters
+   - Single quote or double quote represents a character or string
+   - Example :
+     var name = Mark'
+     var address = "somewhere in the earth"
+     var character = 'a' || "b"
 
 - 2 Number
   -Represents a number
