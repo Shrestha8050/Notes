@@ -48,8 +48,7 @@ A JavaScript function is defined with the function keyword, followed by a name, 
             var work = function(){
                 //Code
             }
-
-                This will Produce an TypeError : work is not a function
+        This will Produce an TypeError : work is not a function
 
 ### Declerative Syntax
 
