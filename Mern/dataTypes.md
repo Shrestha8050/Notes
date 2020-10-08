@@ -15,7 +15,7 @@ JavaScript provides different data types to hold different types of values.
 
 ## Primitive data
 
-1. String
+1. \*\* String
 
    - Represents a sequense of characters
    - Single quote or double quote represents a character or string
@@ -24,7 +24,7 @@ JavaScript provides different data types to hold different types of values.
      - var address = "somewhere in the earth";
      - var character = 'a' || "b";
 
-2. Number
+2. \*\* Number
    - Represents a number
    - Example :
      - var number = 2;
@@ -42,13 +42,24 @@ JavaScript provides different data types to hold different types of values.
 5. Null
    - Represents null i.e no value at all
 
-##Non-primitive Data type  
- *Object
--Represents a collection of properties(member) through which we can access properties(member)
-*Array
--Represents group of similar values
-\*RegExp
--Represents regular Expression
+## Non-primitive Data type
+
+- Object
+  - Represents a collection of properties(member) through which we can access properties(member)
+  - Example :
+    - var obj = {
+      name : 'Mark',
+      key: 'value'
+      }
+- Array
+  - Represents group of similar values
+  - Example :
+    - var arr = ['hello' , 'world'];
+    - var color = new Array("red", "blue", "green");
+- RegExp
+  - Represents regular Expression
+  - Example :
+    - var expression = /hello/i;
 
 ## Dynamic types in JavaScript
 
