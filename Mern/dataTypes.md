@@ -51,22 +51,27 @@ JavaScript provides different data types to hold different types of values.
 
 ## Non-primitive Data type
 
-- Object
-  - Represents a collection of properties(member) through which we can access properties(member)
-  - Example :
-    - var obj = {
-      name : 'Mark',
-      key: 'value'
-      }
-- Array
-  - Represents group of similar values
-  - Example :
-    - var arr = ['hello' , 'world'];
-    - var color = new Array("red", "blue", "green");
-- RegExp
-  - Represents regular Expression
-  - Example :
-    - var expression = /hello/i;
+1.  Object
+
+        - Represents a collection of properties(member) through which we can access properties(member)
+        - Example :
+        - var obj = {
+            name : 'Mark',
+            key: 'value'
+            }
+
+2.  Array
+
+        - Represents group of similar values
+        - Example :
+            - var arr = ['hello' , 'world'];
+            - var color = new Array("red", "blue", "green");
+
+3.  RegExp
+
+        - Represents regular Expression
+        - Example :
+        - var expression = /hello/i;
 
 ## Dynamic types in JavaScript
 
