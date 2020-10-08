@@ -10,8 +10,8 @@ JavaScript provides different data types to hold different types of values.
 
 ## There are two types of data types in JavaScript.
 
-1)Primitive data type
-2)Non-primitive (reference) data type
+- 1)Primitive data type
+  2)Non-primitive (reference) data type
 
 ## Primitive data
 
