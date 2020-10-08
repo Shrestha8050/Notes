@@ -53,7 +53,7 @@ A JavaScript function is defined with the function keyword, followed by a name, 
             //Code
         }
 
-        This will Produce an Reference Error
+        This will Produce an TypeError : work is not a function
 
 ### Declerative Syntax
 
@@ -71,3 +71,40 @@ A JavaScript function is defined with the function keyword, followed by a name, 
 
         //Function Call
         work();
+
+## Type of Function
+
+1.  Named function expression
+
+        function name(){
+            //Code
+        }
+        name();
+
+2.  UnNamed Function expression
+
+        function(){
+            //code
+        }
+
+3.  Function with argument
+
+        function detail(name,address){
+            //code
+        }
+        detail('Mark','UK');
+
+4.  Function with return type
+
+        function detail(name,address){
+            //code
+
+            return result;
+        }
+        var resultContainer = detail('Mark','UK');
+
+5.  IIFE(Immediately Invoked Functional Expression)
+
+        (function () {
+        // code
+        })();
