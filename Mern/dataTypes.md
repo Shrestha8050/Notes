@@ -20,22 +20,27 @@ JavaScript provides different data types to hold different types of values.
    - Represents a sequense of characters
    - Single quote or double quote represents a character or string
    - Example :
-     var name = Mark'
-     var address = "somewhere in the earth"
-     var character = 'a' || "b"
+     - var name = Mark';
+     - var address = "somewhere in the earth";
+     - var character = 'a' || "b";
 
 2. Number
-   -Represents a number
-   -Example :
-   var number = 2
-   var num = 1.222
-   var n = 12e10 (e10 means exponential || base 10 with power 10 || e^10 )
+   - Represents a number
+   - Example :
+     - var number = 2;
+     - var num = 1.222;
+     - var n = 12e10; (e10 means exponential || base 10 with power 10 || e^10 )
 3. Boolean
-   -Represents a boolean value i.e true or false
+   - Represents a boolean value i.e true or false
+   - Example :
+     - var bool = true;
+     - var boolean = false;
 4. Undefined
-   -Represents undefined value(memory is located but value is not assigned).
+   - Represents undefined value(memory is located but value is not assigned).
+   - Example :
+     - var x;
 5. Null
-   -Represents null i.e no value at all
+   - Represents null i.e no value at all
 
 ##Non-primitive Data type  
  *Object
