@@ -46,9 +46,10 @@ A JavaScript function is defined with the function keyword, followed by a name, 
 
     NOTE :  We cannot call the function before initialization
 
-       //Function Call
-        ~~ work();~~
-         //Function Initialization
+        //Function Call
+        ~~workdfd saf~~
+        ~~This was mistaken text~~
+        //Function Initialization
         var work = function(){
             //Code
         }
