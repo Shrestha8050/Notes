@@ -21,9 +21,9 @@ Modular programming is a software design technique that emphasizes separating th
 
 # Creating your own module
 1. Create two files
-![1st](https://user-images.githubusercontent.com/58983458/95645745-db69de80-0ae1-11eb-8416-d55239819aff.PNG)
+- ![1st](https://user-images.githubusercontent.com/58983458/95645745-db69de80-0ae1-11eb-8416-d55239819aff.PNG)
 2. Export the module (Required module.exports ) 
-![2nd](https://user-images.githubusercontent.com/58983458/95645783-41eefc80-0ae2-11eb-8ae8-761618ed7f24.PNG)
+- ![2nd](https://user-images.githubusercontent.com/58983458/95645783-41eefc80-0ae2-11eb-8ae8-761618ed7f24.PNG)
 3. Include in the main file
-![3](https://user-images.githubusercontent.com/58983458/95645828-94c8b400-0ae2-11eb-99e5-bfbe32356174.PNG)
+- ![3](https://user-images.githubusercontent.com/58983458/95645828-94c8b400-0ae2-11eb-99e5-bfbe32356174.PNG)
 
