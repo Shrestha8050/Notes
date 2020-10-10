@@ -93,7 +93,6 @@ In promise, asynchronous methods doesnot return the value directly but it return
                 return Promise object
             })
             .catch(function(){
-
                 // It catches the passed Promise object from above then method
                 console.log('Failure');
             })
