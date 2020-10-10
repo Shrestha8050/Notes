@@ -1,11 +1,9 @@
 # Node.js
 
-    - Node.js is an open source, cross-platform, back-end Javascript runtime (server)
-    envirmonent that executes JavaScript code outside a web browser.
+    - Node.js is an open source, cross-platform, back-end Javascript runtime (server) envirmonent that executes JavaScript code outside a web browser.
     - Node.js uses JavaScript on the server.
     - Node.js runs single-threaded, non-blocking, asynchronously programming, which is very memory efficient.
-
-Node.js represents a "JavaScript everywhere" paradigm.
+    - Node.js represents a "JavaScript everywhere" paradigm.
 
 ### Open Source
 
@@ -21,18 +19,18 @@ Node.js represents a "JavaScript everywhere" paradigm.
 
 # Why Node.js
 
-**Node.js uses asynchronous programming!** means instead of waiting for unit process to be complete, it handles the all the process and notify/return process result according to the operation( Blocking or Non-Nlocking ) of the process.
+    **Node.js uses asynchronous programming!** means instead of waiting for unit process to be complete, it handles the all the process and notify/return process result according to the operation( Blocking or Non-Nlocking ) of the process.
 
-- Blocking operation : this operation block further execution untilll that operation finishes.
-- Non-Blocking : This operation refers to code that doesnt block execution.
-- Asynchronous Programming means a parallel programming in which a unit of work runs separately from the main application thread and notifies the calling thread of its completion, failure or progress.
+    - Blocking operation : this operation block further execution untilll that operation finishes.
+    - Non-Blocking : This operation refers to code that doesnt block execution.
+    - Asynchronous Programming means a parallel programming in which a unit of work runs separately from the main application thread and notifies the calling thread of its completion, failure or progress.
 
 ### How Node.js Works
 
-         Node.js eliminates the waiting and simply continues with the next request.
+     Node.js eliminates the waiting and simply continues with the next request.
 
 ### How Node.js handles file request
 
-1. Sends the task to the computer's file system.
-2. Ready to handle the next request.(Because Using the file system takes time)
-3. When the file system has open and read the file, the server returns the content to the client.
+    1. Sends the task to the computer's file system.
+    2. Ready to handle the next request.(Because Using the file system takes time)
+    3. When the file system has open and read the file, the server returns the content to the client.
