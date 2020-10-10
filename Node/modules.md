@@ -22,5 +22,4 @@ Modular programming is a software design technique that emphasizes separating th
 # Creating your own module
 
     1. Create two files
-
-![https://gitlab.com/bodhanshrestha/remote-work/-/raw/master/Capture.PNG]
+<img src="https://gitlab.com/bodhanshrestha/remote-work/-/raw/master/Capture.PNG">
