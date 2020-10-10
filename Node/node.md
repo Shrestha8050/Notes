@@ -1,9 +1,9 @@
 # Node.js
 
-    Node.js is an open source, cross-platform, back-end Javascript runtime (server) envirmonent that executes JavaScript code outside a web browser.
-
-_Node.js uses JavaScript on the server_
-_Node.js runs single-threaded, non-blocking, asynchronously programming, which is very memory efficient._
+    - Node.js is an open source, cross-platform, back-end Javascript runtime (server)
+    envirmonent that executes JavaScript code outside a web browser.
+    - Node.js uses JavaScript on the server.
+    - Node.js runs single-threaded, non-blocking, asynchronously programming, which is very memory efficient.
 
 Node.js represents a "JavaScript everywhere" paradigm.
 
