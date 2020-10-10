@@ -19,7 +19,7 @@
 
 # Why Node.js
 
-    **Node.js uses asynchronous programming!** means instead of waiting for unit process to be complete, it handles the all the process and notify/return process result according to the operation( Blocking or Non-Nlocking ) of the process.
+**Node.js uses asynchronous programming!** means instead of waiting for unit process to be complete, it handles the all the process and notify/return process result according to the operation( Blocking or Non-Nlocking ) of the process.
 
     - Blocking operation : this operation block further execution untilll that operation finishes.
     - Non-Blocking : This operation refers to code that doesnt block execution.
