@@ -27,7 +27,7 @@
 
 ### How Node.js Works
 
-     Node.js eliminates the waiting and simply continues with the next request.
+    Node.js eliminates the waiting and simply continues with the next request.
 
 ### How Node.js handles file request
 
