@@ -4,15 +4,18 @@
 
 ### Software Library
 
-    A software library is a suite of data and programming code that is used to develop software programs and applications. It is designed to assist both the programmer and the programming language compiler in building and executing software.
+    A software library is a suite of data and programming code that is used to develop software programs and applications. 
+    It is designed to assist both the programmer and the programming language compiler in building and executing software.
 
 ### Software suite or Application suite
 
-    A software suite or application suite is a collection of computer programs — usually application software or programming software — of related functionality, often sharing a similar user interface and the ability to easily exchange data with each other.
+    A software suite or application suite is a collection of computer programs — usually application software or programming software — of related functionality, 
+    often sharing a similar user interface and the ability to easily exchange data with each other.
 
 ### Application Framework
 
-    An application framework is a software library that provides a fundamental structure to support the development of applications for a specific environment. An application framework acts as the skeletal support to build an application.
+    An application framework is a software library that provides a fundamental structure to support the development of applications for a specific environment.
+    An application framework acts as the skeletal support to build an application.
 
 ### Creates an Express application.
 
@@ -22,7 +25,8 @@
 
 ### Response methods
 
-    The methods on the response object (res) in the following table can send a response to the client, and terminate the request-response cycle. If none of these methods are called from a route handler, the client request will be left hanging.
+    The methods on the response object (res) in the following table can send a response to the client, and terminate the request-response cycle. 
+    If none of these methods are called from a route handler, the client request will be left hanging.
 
     Method
     - res.download() - Prompt a file to be downloaded.
