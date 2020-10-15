@@ -16,7 +16,9 @@
 - To include a module, we use the require() function with the name of the module
 - To define your own modules, you need to define their path.
 - Example :
+
   > var fs = require('fs');
+
   > var date= require('./date');
 
 # Creating your own module
