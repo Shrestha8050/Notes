@@ -14,15 +14,13 @@ A software suite or application suite is a collection of computer programs — u
 An application framework is a software library that provides a fundamental structure to support the development of applications for a specific environment.An application framework acts as the skeletal support to build an application.
 
 ### Creates an Express application.
+The express() function is a top-level function exported by the express module.
 
-    The express() function is a top-level function exported by the express module.
         const express = require('express');
         const app = express();
 
 ### Response methods
-
-    The methods on the response object (res) in the following table can send a response to the client, and terminate the request-response cycle. 
-    If none of these methods are called from a route handler, the client request will be left hanging.
+The methods on the response object (res) in the following table can send a response to the client, and terminate the request-response cycle. If none of these methods are called from a route handler, the client request will be left hanging.
 
     Method
     - res.download() - Prompt a file to be downloaded.
@@ -36,8 +34,7 @@ An application framework is a software library that provides a fundamental struc
     - res.sendStatus() - Set the response status code and send its string representation as the response body.
 
 # Application
-
-    The app object conventionally denotes the Express application.
+The app object conventionally denotes the Express application.
     Create it by calling the top-level express() function exported by the Express module:
 
         const express = require('express')
@@ -58,7 +55,7 @@ An application framework is a software library that provides a fundamental struc
 
 # Request
 
-    The req object represents the HTTP request and has properties for the request query string, parameters, body, HTTP headers, and so on.
+The req object represents the HTTP request and has properties for the request query string, parameters, body, HTTP headers, and so on.
         - the HTTP request is req
         - the HTTP response is res
 
@@ -76,7 +73,7 @@ An application framework is a software library that provides a fundamental struc
 
 # Response
 
-    The res object represents the HTTP response that an Express app sends when it gets an HTTP request.
+The res object represents the HTTP response that an Express app sends when it gets an HTTP request.
         - the HTTP request is req
         - the HTTP response is res
 
