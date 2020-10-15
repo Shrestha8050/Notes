@@ -10,8 +10,8 @@
 
 ### Software suite or Application suite
 
-    A software suite or application suite is a collection of computer programs — usually application software or programming software — of related functionality, 
-    often sharing a similar user interface and the ability to easily exchange data with each other.
+    A software suite or application suite is a collection of computer programs — usually application software or programming software 
+    — of related functionality, often sharing a similar user interface and the ability to easily exchange data with each other.
 
 ### Application Framework
 
