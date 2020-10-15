@@ -16,3 +16,5 @@ Middleware functions are functions that have access to the request object ( req 
     - Error-handling middleware
     - Built-in middleware
     - Third-party middleware
+
+## Application-level Middleware

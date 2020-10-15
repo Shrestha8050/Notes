@@ -20,6 +20,21 @@
         const express = require('express');
         const app = express();
 
+### Response methods
+
+    The methods on the response object (res) in the following table can send a response to the client, and terminate the request-response cycle. If none of these methods are called from a route handler, the client request will be left hanging.
+
+    Method
+    - res.download() - Prompt a file to be downloaded.
+    - res.end() - End the response process.
+    - res.json() - Send a JSON response.
+    - res.jsonp() - Send a JSON response with JSONP support.
+    - res.redirect() - Redirect a request.
+    - res.render() - Render a view template.
+    - res.send() - Send a response of various types.
+    - res.sendFile() - Send a file as an octet stream.
+    - res.sendStatus() - Set the response status code and send its string representation as the response body.
+
 # Application
 
     The app object conventionally denotes the Express application.
@@ -90,7 +105,7 @@
     // invoked for any requests passed to this router
     router.use(function (req, res, next) {
     // .. some logic here .. like any other middleware
-    next()
+        next()
     })
 
     // will handle any request that ends in /events
