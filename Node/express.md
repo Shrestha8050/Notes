@@ -92,11 +92,12 @@
 
 - A router behaves like middleware itself, so you can use it as an argument to app.use() or as the argument to another router’s use() method.
 
-  The top-level express object has a Router() method that creates a new router object.
+- The top-level express object has a Router() method that creates a new router object.
 
-  Once you’ve created a router object, you can add middleware and HTTP method routes (such as get, put, post, and so on) to it just like an application. For example:
+- Once you’ve created a router object, you can add middleware and HTTP method routes (such as get, put, post, and so on) to it just like an application. For example:
 
   // invoked for any requests passed to this router
+
   router.use(function (req, res, next) {
   // .. some logic here .. like any other middleware
   next()
