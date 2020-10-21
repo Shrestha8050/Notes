@@ -2,7 +2,7 @@
 
 - db.getMongo()
 
-  - Returns the current database connection.
+        - Returns the current database connection.
 
 - > show dbs
 
