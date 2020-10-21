@@ -10,38 +10,38 @@
 
 - use <database name>
 
-        Uses the provided database name for the operation.
+      Uses the provided database name for the operation.
 
 - db
 
-        Shows the current accessing database.
+      Shows the current accessing database.
 
 - db.getName()
 
-        Shows the current database name.
+      Shows the current database name.
 
 - db.createCollection(<Collection-Name>)
 
-        Creates the provided collection name in the database.
+      Creates the provided collection name in the database.
 
 - db.help()
 
-        Returns the list of methods on db object.
+      Returns the list of methods on db object.
 
 - db.stats()
 
-        returns a document with statistics reflecting the database system’s state.
+      returns a document with statistics reflecting the database system’s state.
 
 - db.version()
 
-        Returns the version of the mongod or mongos instance.
+      Returns the version of the mongod or mongos instance.
 
 - db.hostInfo()
 
-        Returns a document with information about the underlying system that the mongod or mongos runs on.
+      Returns a document with information about the underlying system that the mongod or mongos runs on.
 
 - db.dropDatabase()
 
-        Removes the current database, deleting the associated data files.
+      Removes the current database, deleting the associated data files.
 
 -
