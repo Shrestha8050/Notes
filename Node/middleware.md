@@ -16,5 +16,3 @@
 - Error-handling middleware
 - Built-in middleware
 - Third-party middleware
-
-## Application-level Middleware
